@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="GaugesAnimation.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">50-23-57-F4-6F-70-C0-DF-F4-9E-1A-7C-4C-D5-CF-79-AF-DF-A8-4A</my:String>
+  </Application.Resources>
+</Application>
