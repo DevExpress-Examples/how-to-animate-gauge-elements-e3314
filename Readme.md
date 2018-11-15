@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/GaugesAnimation/MainPage.xaml) (VB: [MainPage.xaml](./VB/GaugesAnimation/MainPage.xaml))
+<!-- default file list end -->
 # How to animate gauge elements
 
 
