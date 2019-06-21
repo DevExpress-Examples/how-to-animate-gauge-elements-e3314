@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/GaugesAnimation/MainPage.xaml) (VB: [MainPage.xaml](./VB/GaugesAnimation/MainPage.xaml))
 <!-- default file list end -->
 # How to animate gauge elements
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3314)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to use animation effects in DXGauges. </p>
